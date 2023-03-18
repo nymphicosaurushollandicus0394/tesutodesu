@@ -1,8 +1,12 @@
 # tesutodesu
 テストです
 <HTML>
-		<HEAD>
-
+		
+<HEAD>								
+		<TITLE>							
+											
+		</TITLE>							
+	</HEAD>		
 
 
 
