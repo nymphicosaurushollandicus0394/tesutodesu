@@ -2,12 +2,13 @@
 テストです
 <HTML>
 		
-<HEAD>								
+	<HEAD>								
 		<TITLE>							
 											
 		</TITLE>							
 	</HEAD>		
+		<BoDY>
+			<a href="Nikki-Ryokoushibou.HTML"></a>
 
-
-
+		</BODY>
 </HTML>
