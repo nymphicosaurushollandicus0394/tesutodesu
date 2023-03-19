@@ -6,4 +6,4 @@
 <p align="left">
 <p valign="top">
 
-### [目錄/Inhaltsverzeichnis/Contents](Inhaltesverzeichnis.html)
+### [目次](Inhalte.html)
